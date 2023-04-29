@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.main-div{
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    color:#ffffff;
+    font-size: large;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+.main-heading h1{
+    background-color: #323f4b;
+}
+.msg-sent{
+    background-color:#47a3f3;
+}
+.msg-receive{
+    background-color: #52606d;
+}
